@@ -1,4 +1,7 @@
 management:
+  info:
+    java:
+      enabled: true
   endpoint:
     health:
       show-details: always

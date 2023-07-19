@@ -17,8 +17,6 @@ class MemberServiceIntegrationTest {
 
     @Autowired
     MemberService memberService;
-    @Autowired
-    MemberRepository memberRepository;
 
 
     @Test
